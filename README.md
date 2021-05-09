@@ -5,7 +5,9 @@ Now, I am giving back to the community by doing 1 session at a time to help deve
 
 This repo will hold the links to my sessions and PPTs.
 
-## Sessions Resources
+[Twitter](https://twitter.com/hellonehha)
+
+## Past Sessions
 
 1) [Introduction to Cloud | 9th May 2021](https://github.com/Neha/learn-cloud/blob/main/CloudComputing-NehaSharma.pdf)
 
@@ -30,6 +32,9 @@ This repo will hold the links to my sessions and PPTs.
 **3) Lab: Lambda**
 
 **4) Lab: VPC**
+
+
+## Happy Learning!!
 
 **5) Lab: CI/CD**
 
