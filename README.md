@@ -12,7 +12,7 @@ This repo will hold the links to my sessions and PPTs.
 
 ## Upcoming Sessions:
 
-** 1) Lab: Host your website to S3 **
+**1) Lab: Host your website to S3**
 
 *When:* TBD | ONLINE
 
@@ -25,13 +25,13 @@ This repo will hold the links to my sessions and PPTs.
 - AWS account
 
 
-** 2) Lab: EC2 **
+**2) Lab: EC2**
 
-** 3) Lab: Lambda **
+**3) Lab: Lambda**
 
-** 4) Lab: VPC **
+**4) Lab: VPC**
 
-** 4) Lab: CI/CD **
+**5) Lab: CI/CD**
 
-** 4) Lab: IAM **
+**6) Lab: IAM**
 
