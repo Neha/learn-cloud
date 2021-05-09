@@ -5,7 +5,7 @@ Now, I am giving back to the community by doing 1 session at a time to help deve
 
 This repo will hold the links to my sessions and PPTs.
 
-[Twitter](https://twitter.com/hellonehha)
+Follow me: [Twitter](https://twitter.com/hellonehha) | [Linkedin](https://www.linkedin.com/in/nehha/)
 
 ## Past Sessions
 
@@ -33,10 +33,9 @@ This repo will hold the links to my sessions and PPTs.
 
 **4) Lab: VPC**
 
-
-## Happy Learning!!
-
 **5) Lab: CI/CD**
 
 **6) Lab: IAM**
+
+## Happy Learning!!
 
