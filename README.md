@@ -14,9 +14,9 @@ Follow me: [Twitter](https://twitter.com/hellonehha) | [Linkedin](https://www.li
 
 ## Upcoming Sessions:
 
-**1) Lab: Host your website to S3**
+**1) Lab: Host your site to S3**
 
-*When:* TBD | ONLINE
+*When:* 30th May 2021 | ONLINE
 
 *Pre-requisites:*
 
